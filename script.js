@@ -1,7 +1,7 @@
 // INTEGRATED CREDENTIALS HERE
 const SUPABASE_URL = "https://rajnjailyrkvlztazipz.supabase.co";
 const SUPABASE_ANON_KEY = "sb_publishable_u8noafAc4uo6rnozuSLVsA_bv4dX-1j";
-const ACADEMY_WHATSAPP_NUMBER = "923000000000"; // replace with your whatsapp number
+const ACADEMY_WHATSAPP_NUMBER = "923479290925"; // replace with your whatsapp number
 
 // Initialize Supabase Client Connection
 const _supabase = supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
